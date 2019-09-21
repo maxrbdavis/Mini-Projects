@@ -83,4 +83,4 @@ ct.km
 library(cluster)
 clusplot(pam(df,3))
 
-# It seems to be a fairly good clustering. The clusters are mostly disticnt, with only a small amount of crossover. 
+# It seems to be a fairly good clustering. The clusters are mostly distinct, with only a small amount of crossover. 
